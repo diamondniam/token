@@ -45,7 +45,10 @@ npm install
 To start the development server:
 
 ```bash
-npm dev
+npx truffle compile
+npx truffle migrate --network <development | holesky | ...>
+cd frontend
+npm run dev
 ```
 
 This runs the Vite dev server. Open your browser at http://localhost:5173.
