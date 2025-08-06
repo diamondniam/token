@@ -1,0 +1,63 @@
+{
+  "title": "About us",
+  "description": "Cool reward system with $DNM inside our food ordering business",
+  "headline": "We are building new reward system with our $DNM, please take part in our reward system and invest and touch with your hand now.",
+  "team": {
+    "title": "Have you met the DNM Founders Team?",
+    "description": "Meet the team",
+    "members": [
+      {
+        "name": "Diamond Niam",
+        "title": "CEO",
+        "avatar": "diamond-now",
+        "linkedin": "https://www.linkedin.com/in/diamondniam/",
+        "bio": "Drives the vision, keeps us aligned, and leads with big-picture strategy."
+      },
+      {
+        "name": "Dymka",
+        "title": "Security Researcher",
+        "avatar": "dymka",
+        "linkedin": "https://www.linkedin.com/in/diamondniam/",
+        "bio": "Protects our systems by staying one step ahead of every threat."
+      },
+      {
+        "name": "Yung Diamond",
+        "title": "Software Architect",
+        "avatar": "diamond-red",
+        "linkedin": "https://www.linkedin.com/in/diamondniam/",
+        "bio": "Crafts the foundation of our tech and keeps everything scalable and solid."
+      },
+      {
+        "name": "Diamond Nigmatzianov",
+        "title": "Blockchain Developer",
+        "avatar": "diamond-pirat",
+        "linkedin": "https://www.linkedin.com/in/diamondniam/",
+        "bio": "Brings decentralized ideas to life with secure and efficient smart contracts."
+      },
+      {
+        "name": "Almaz Niam",
+        "title": "UI/UX Designer",
+        "avatar": "diamond-bored",
+        "linkedin": "https://www.linkedin.com/in/diamondniam/",
+        "bio": "Makes sure our products feel as good as they look."
+      }
+    ]
+  },
+  "bridge": {
+    "title": "Bridge",
+    "button": "Bridge Now"
+  },
+  "funFact": {
+    "title": "Fun Fact",
+    "button": "Mint an NFT Now"
+  },
+  "nftPlatform": {
+    "title": "NFT Platform"
+  },
+  "alreadyConvinced": {
+    "title": "Already convinced?",
+    "description": "What are you waiting for?",
+    "headline": "Ensure to grab your DNM token now and enjoy vast benefits that come along with being a part of us.",
+    "button": "Get $DNM Now"
+  }
+}

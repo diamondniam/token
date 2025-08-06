@@ -1,0 +1,27 @@
+{
+  "title": "Pre-sale",
+  "description": "During the pre-sale, you will have the option to buy $DNM. All $DNM purchased can be claimed after the end of the vesting period.",
+  "buttons": {
+    "back": "Back",
+    "stop": "Stop pre-sale",
+    "buy": "Buy DNM Token",
+    "stake": "Stake"
+  },
+  "steps": {
+    "headline": "Grab your DNM token now and enjoy vast benefits that come along with being a part of us.",
+    "items": ["Connect Wallet", "Choose Network", "Enter Amount", "Click Buy"]
+  },
+  "inputs": {
+    "buy": {
+      "label": "Buy DNM tokens",
+      "placeholder": "Amount to buy"
+    }
+  },
+  "ended": {
+    "headline": "Pre-sale has ended",
+    "description": "Let's stake our DNM tokens and start earning rewards."
+  },
+  "notStarted": {
+    "headline": "Opens in"
+  }
+}

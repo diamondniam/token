@@ -1,0 +1,30 @@
+@import './utils/index.css';
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+:root {
+  --scrollbar-main: #303030;
+}
+
+html,
+body {
+  font-family: 'Quicksand', system-ui, Avenir, Helvetica, Arial, sans-serif;
+  padding: 0;
+  margin: 0;
+  scroll-behavior: smooth;
+  background: #141618;
+
+  &::-webkit-scrollbar {
+    width: 7px;
+    height: 7px;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background-color: var(--scrollbar-main);
+    border-radius: 5px;
+  }
+
+  &::-webkit-scrollbar-corner {
+    background-color: transparent;
+  }
+}

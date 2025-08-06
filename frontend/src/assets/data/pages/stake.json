@@ -1,0 +1,19 @@
+{
+  "title": "Staking",
+  "description": "Grab your DNM tokens now and get <strong>NFT</strong> for transaction more than <strong>29 DNM</strong>.",
+  "buttons": {
+    "back": "Back",
+    "stake": "Stake",
+    "buy": "Buy DNM Token"
+  },
+  "inputs": {
+    "buy": {
+      "label": "Buy DNM tokens",
+      "placeholder": "Amount to buy"
+    }
+  },
+  "steps": {
+    "title": "How to stake?",
+    "items": ["Connect Wallet", "Choose Network", "Enter Amount", "Click Buy"]
+  }
+}

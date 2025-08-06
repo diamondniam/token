@@ -1,0 +1,26 @@
+{
+  "name": "diamondniamtoken",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx truffle test",
+    "format": "npx prettier --write 'contracts/**/*.sol'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "prettier": "^3.6.2",
+    "prettier-plugin-solidity": "^2.1.0",
+    "truffle": "^5.11.5"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.4.0",
+    "@truffle/hdwallet-provider": "^2.1.15",
+    "chai": "^5.2.1",
+    "ethers": "^6.15.0",
+    "react-confetti": "^6.4.0"
+  }
+}

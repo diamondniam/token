@@ -1,0 +1,153 @@
+{
+  "title": "Diamonds For Everybody",
+  "description": "DNM is decentralized reward system, the overall system including reward will be extended and we will launch extra services to make our token more valuable. People who own $DNM can get more and more reward. Our community will grow so fast and surely go to the moon with strong supporters and investors.",
+  "headline": "Let's get more and more $DNM token.",
+  "buttons": {
+    "get": "Get $DNM",
+    "whitepaper": "DNM Whitepaper"
+  },
+  "features": {
+    "title": "Our main features",
+    "description": "Cool Reward System for Orders",
+    "items": [
+      {
+        "id": "coolReward",
+        "title": "What you get",
+        "description": "If you order foods to our restautant, you will get $DNM as rewards. If you are a customer or investor, you can get more rewards. This means you got cool rewards from us instead of orders."
+      },
+      {
+        "id": "extraServices",
+        "title": "Extra services",
+        "description": "We will provide more extra services so that our $DNM has got more valuable"
+      }
+    ]
+  },
+  "howTo": {
+    "title": "Let's Get started",
+    "description": "How to get $DNM",
+    "steps": [
+      {
+        "label": "Choose your network",
+        "description": "$DNM is available in BSC, Binance Smart Chain networks. Choose your network from here BSC “DROP DOWN MENU” “Same as in toolbar” to participate in $DNM pre-sale"
+      },
+      {
+        "label": "Create a MetaMask Wallet",
+        "description": "<span>$DNM token is available on the BSC blockchain. MetaMask is a third party BEP20 (Binance) browser wallet, and the very best at that! On Google Chrome, visit <a href=\"https://metamask.io\" target=\"_blank\" rel=\"noreferrer\" style=\"text-decoration: none;\">metamask.io</a> to download the extension and set up a wallet. On mobile? Get MetaMask's app for iPhone or Android</span>"
+      },
+      {
+        "label": "Send BEP20 $BNB to MetaMask",
+        "description": "Acquire $BNB through MetaMask itself or transfer it to your MetaMask wallet address from another wallet (e.g. Coinbase or Binance)."
+      },
+      {
+        "label": "Click On Pre-Sale",
+        "description": "You can currently swap BNB to $DNM on Pre-Sale over DNM's official website! Pre-Sale supports only BEP20 BNB."
+      },
+      {
+        "label": "Swap BEP20 $BNB to $DNM",
+        "description": "Click Connect Wallet Enter the amount of $BNB you would like to swap for $DNM. Then click on Swap."
+      },
+      {
+        "label": "Claim $DNM",
+        "description": "All $DNM purchased can be claimed at the pre-sale page after the end of the vesting period."
+      }
+    ]
+  },
+  "tokenomics": {
+    "title": "Tokenomics",
+    "description": "During the presale, you will have the option to buy $DNM, presale will take place in two steps with different price, presale supports only BEP20 $BNB. All $DNM purchased can be claimed at the pre-sale page after the end of the vesting period.",
+    "totalSupply": {
+      "value": 100000000,
+      "label": "Total Supply"
+    },
+    "statistics": {
+      "title": "Tokenomic Statistics",
+      "data": [
+        {
+          "label": "Presale",
+          "value": 10
+        },
+        {
+          "label": "DEX",
+          "value": 10
+        },
+        {
+          "label": "CEX reserved",
+          "value": 10
+        },
+        {
+          "label": "Staking",
+          "value": 25
+        },
+        {
+          "label": "Team",
+          "value": 10
+        },
+        {
+          "label": "Reward for Ordering",
+          "value": 25
+        },
+        {
+          "label": "Reward for Customers",
+          "value": 5
+        },
+        {
+          "label": "Airdrop",
+          "value": 5
+        }
+      ]
+    }
+  },
+  "roadMap": {
+    "title": "Roadmap",
+    "description": "This Roadmap outlines our future plans",
+    "steps": [
+      {
+        "id": 1,
+        "title": "Phase I",
+        "data": [
+          { "text": "1K Holders", "done": false },
+          { "text": "Presale launch", "done": false },
+          { "text": "Stage1 Marketing", "done": false },
+          { "text": "1% Airdrop", "done": false }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Phase II",
+        "data": [
+          { "text": "3K Holders", "done": false },
+          { "text": "Add to DEX", "done": false },
+          { "text": "Stage2 Marketing", "done": false }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Phase III",
+        "data": [
+          { "text": "Stage3 Marketing", "done": false },
+          { "text": "Add to CEX", "done": false },
+          { "text": "1% Airdrop", "done": false }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Phase IV",
+        "data": [
+          { "text": "5K Holders", "done": false },
+          { "text": "Staking pool launch", "done": false },
+          { "text": "Community Growth", "done": false }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Phase V",
+        "data": [
+          { "text": "10K Holders", "done": false },
+          { "text": "Ordering Reward Launch", "done": false },
+          { "text": "1% Airdrop", "done": false },
+          { "text": "Go to the moon", "done": false }
+        ]
+      }
+    ]
+  }
+}

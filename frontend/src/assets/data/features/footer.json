@@ -1,0 +1,41 @@
+{
+  "auditionTitle": "Audited by",
+  "socialLinks": [
+    {
+      "label": "Twitter",
+      "icon": "twitter",
+      "href": "https://twitter.com/"
+    },
+    {
+      "label": "Telegram",
+      "icon": "telegram",
+      "href": "https://t.me/"
+    },
+    {
+      "label": "Discord",
+      "icon": "discord",
+      "href": "https://discord.gg"
+    },
+    {
+      "label": "E-mail",
+      "icon": "email",
+      "href": "mailto:"
+    }
+  ],
+  "partners": [
+    {
+      "label": "certik",
+      "icon": "certik",
+      "width": 150
+    },
+    {
+      "label": "fairyproof",
+      "icon": "fairyproof",
+      "width": 130
+    }
+  ],
+  "copyright": {
+    "start": "Copyright © ",
+    "end": "DNM. All rights reserved."
+  }
+}

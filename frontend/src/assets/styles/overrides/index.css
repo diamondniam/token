@@ -1,0 +1,7 @@
+@import './a.css';
+@import './p.css';
+@import './mui.css';
+
+* {
+  box-sizing: border-box;
+}

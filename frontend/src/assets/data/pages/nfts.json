@@ -1,0 +1,43 @@
+{
+  "title": "NFTs",
+  "description": "All the NFTs you are holding will be shown here. Total collection: <total></total>.",
+  "noNFTs": "You don't have any NFTs yet.",
+  "youHaveAll": "You have got all NFTs!",
+  "items": [
+    {
+      "uri": "bafybeigwj6oft4eg5xgba5jfa762qffbj7khmg3icgfxw4tsq6vsorpksa/rodeo.png",
+      "name": "Rodeo",
+      "description": "I remember how he often mentioned Travis Scott’s production almost in this album “Rodeo”. Lots of great experiments in music. Travis also opened for him musicians like Mike Dean and Ludwig Goransson."
+    },
+    {
+      "uri": "bafybeigwj6oft4eg5xgba5jfa762qffbj7khmg3icgfxw4tsq6vsorpksa/ada.png",
+      "name": "Ada",
+      "description": "This is recently written Nick’s work with classic music. History of it was how he came to city and he met some strong feelings. I remember how he told about one girl and that this album is related to her."
+    },
+    {
+      "uri": "bafybeigwj6oft4eg5xgba5jfa762qffbj7khmg3icgfxw4tsq6vsorpksa/krasotaYrodstvo.png",
+      "name": "Beauty & Ugliness",
+      "description": "An another poster is a Russian artist’s called Oxxxymiron album “Beauty & Ugliness”. He often talks about important and relevant problems in Russia, that have consequences at present."
+    },
+    {
+      "uri": "bafybeigwj6oft4eg5xgba5jfa762qffbj7khmg3icgfxw4tsq6vsorpksa/mbm.png",
+      "name": "Mom, Believe Me",
+      "description": "The Nick’s debut album. Idea of it was to show relationships between two different generations. In artwork he showed his mother that confirm this thought."
+    },
+    {
+      "uri": "bafybeigwj6oft4eg5xgba5jfa762qffbj7khmg3icgfxw4tsq6vsorpksa/israeli.png",
+      "name": "Israeli Salad",
+      "description": "Alchemist is the our next hero in this room tour. Great production, diamond sampling mastery that well demonstrated in album from this poster and in works with J. Cole, Benny The Butcher and many other."
+    },
+    {
+      "uri": "bafybeigwj6oft4eg5xgba5jfa762qffbj7khmg3icgfxw4tsq6vsorpksa/dymka.png",
+      "name": "Dymka",
+      "description": "This is a Nick’s best lovely friend Dymka. Probably better her I heard no one. She often sleeps on this bed."
+    },
+    {
+      "uri": "bafybeigwj6oft4eg5xgba5jfa762qffbj7khmg3icgfxw4tsq6vsorpksa/mouse.png",
+      "name": "Mouse",
+      "description": "This is another one little friend. He never leave this room and hide from other residents of this house. I don’t know why, but Nick say that this mouse is unique and nothing more."
+    }
+  ]
+}

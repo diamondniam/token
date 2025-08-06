@@ -1,0 +1,38 @@
+.animate-fade-in-up {
+  animation: animate-fade-in-up 0.3s ease;
+}
+
+@keyframes animate-fade-in-up {
+  0% {
+    opacity: 0;
+    transform: translate(0, 20px);
+    -webkit-transform: translate(0, 20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translate(0, 0);
+    -webkit-transform: translate(0, 0);
+  }
+}
+
+.pulse {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  box-shadow: 0 0 0 rgba(220, 53, 69, 1);
+  -webkit-animation: pulse 2s infinite;
+  animation: pulse 2s infinite;
+  border: 3px solid rgba(255, 255, 255, 0.7);
+}
+
+@keyframes pulse {
+  0% {
+    box-shadow: 0 0 0 0 rgba(220, 53, 69, 1);
+  }
+  70% {
+    box-shadow: 0 0 0 calc(16 * 1px * 1) rgba(220, 53, 69, 0);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(220, 53, 69, 0);
+  }
+}
