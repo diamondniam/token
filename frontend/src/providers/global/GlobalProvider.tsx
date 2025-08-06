@@ -1,5 +1,6 @@
 import { createContext, useContext } from "react";
 import { http, createConfig, WagmiProvider, injected } from "wagmi";
+// @ts-ignore
 import { mainnet, sepolia, holesky, localhost } from "wagmi/chains";
 import { walletConnect } from "@wagmi/connectors";
 

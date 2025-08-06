@@ -1,8 +1,6 @@
 import type { config } from "@/providers/global/GlobalProvider";
 import type { Chain, ChainStringId } from "@/types";
 import { getFallbackChain, type Contracts } from "@/utils/helpers";
-import { createPublicClient, http } from "viem";
-import { getContractEvents as getContractEventsViem } from "viem/actions";
 import {
   useReadContract as useReadContractWagmi,
   useWriteContract as useWriteContractWagmi,

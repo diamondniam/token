@@ -3,7 +3,7 @@ import { useAccount, useBalance, useWaitForTransactionReceipt } from "wagmi";
 import { motion, AnimatePresence } from "framer-motion";
 
 import { getContractEvents, getItemById, readContract } from "@/utils/helpers";
-import type { AppDataHandledItemOptions, ChainStringId } from "@/types";
+import type { AppDataHandledItemOptions } from "@/types";
 
 import {
   Box,

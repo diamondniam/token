@@ -1,6 +1,6 @@
 import { createContext, useContext, useEffect, useRef } from "react";
 
-import { useAccount, useAccountEffect } from "wagmi";
+import { useAccount } from "wagmi";
 import { useAllowedChain, useReadContract } from "@/utils/hooks";
 import { useQuery } from "@tanstack/react-query";
 

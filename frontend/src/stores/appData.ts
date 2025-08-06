@@ -24,6 +24,8 @@ export const useAppData = create<AppDataStore>()(
         data: undefined,
         handled: {
           balance: 0,
+          totalNFTs: [],
+          NFTsMinted: 0,
           items: [],
         },
       },
