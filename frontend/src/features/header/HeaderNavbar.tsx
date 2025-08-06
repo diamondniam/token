@@ -13,7 +13,13 @@ export default function HeaderNavbar() {
 
   return (
     <>
-      <Stack direction="row" spacing={3} alignItems="center" component="nav">
+      <Stack
+        direction="row"
+        spacing={3}
+        alignItems="center"
+        component="nav"
+        sx={{ position: "absolute", left: "50%", top: "50%", transform: "translate(-50%, -50%)" }}
+      >
         {navbarButtons.map((link) => (
           <Button
             key={link.id}
