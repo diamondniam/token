@@ -15,6 +15,7 @@ export type WalletDialogIconProps = {
   isActive: boolean;
   id: string;
   icon: React.ReactNode;
+  name: string;
   onClick: (id: string) => void;
 };
 

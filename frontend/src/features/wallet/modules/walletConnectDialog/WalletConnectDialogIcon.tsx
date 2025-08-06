@@ -1,16 +1,17 @@
 import type { WalletDialogIconProps } from "@/features/wallet/types/wallet";
-import { Avatar, Badge, Button, Grow, Stack } from "@mui/material";
+import { Avatar, Badge, Button, Grow, Stack, Typography } from "@mui/material";
 import DoneIcon from "@mui/icons-material/Done";
 import { green } from "@mui/material/colors";
 
 export default function WalletConnectDialogIcon({
   isActive,
   id,
+  name,
   icon,
   onClick,
 }: WalletDialogIconProps) {
   return (
-    <Stack component={Button} color="inherit" onClick={() => onClick(id)}>
+    <Stack component={Button} color="inherit" spacing={1} onClick={() => onClick(id)}>
       <Badge
         overlap="circular"
         anchorOrigin={{ vertical: "bottom", horizontal: "right" }}
@@ -26,6 +27,8 @@ export default function WalletConnectDialogIcon({
       >
         <Avatar sx={{ width: 60, height: 60 }}>{icon}</Avatar>
       </Badge>
+
+      <Typography variant="body2">{name}</Typography>
     </Stack>
   );
 }

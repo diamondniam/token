@@ -71,6 +71,7 @@ export default function WalletConnectDialogContent({
                 isActive={getIsActive(step.id, item)}
                 id={getItemId(step.id, item)}
                 icon={item.icon}
+                name={item.name}
                 onClick={(id) => handleIconClick(step.id, id)}
               />
             ))}
