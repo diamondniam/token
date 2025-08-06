@@ -47,6 +47,7 @@ To start the development server:
 ```bash
 npx truffle compile
 npx truffle migrate --network <development | holesky | ...>
+// update utils/helpers/contracts to your new deployed contract adresses
 cd frontend
 npm run dev
 ```
@@ -126,7 +127,7 @@ npx truffle migrate --network holesky
 
 - TypeScript: .tsx and .ts extensions for strict typing and component clarity.
 
-- Domain-first: if inside dialogs group component should start with Dialog.
+- Domain-first: e.g. if inside dialogs group component name should start with Dialog.
 
 ## 🔐 Features
 
